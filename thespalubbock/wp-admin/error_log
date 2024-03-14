@@ -1,0 +1,8 @@
+[03-Dec-2020 23:02:36 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[04-Dec-2020 16:09:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
+[04-Dec-2020 16:17:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
+[04-Dec-2020 17:10:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
+[04-Dec-2020 17:10:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
+[04-Dec-2020 17:13:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
+[04-Dec-2020 17:16:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
+[04-Dec-2020 17:17:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/vivienda/public_html/thespalubbock/wp-content/themes/Divi/core/components/Portability.php on line 1360
